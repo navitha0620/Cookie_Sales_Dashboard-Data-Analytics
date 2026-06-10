@@ -49,7 +49,7 @@ This Cookie Sales Analysis Dashboard demonstrates strong skills in data analytic
 ![Cookie Sales Dashboard](https://github.com/navitha0620/Cookie_Sales_Dashboard-Data-Analytics/blob/main/Cookie_sales_dashboard.png)
 
 ---
-## 🎥 Video
+##  Video
 
 Watch the project demo video
 [![Watch the video](https://raw.githubusercontent.com/navitha0620/Cookie_Sales_Dashboard-Data-Analytics/main/Thumbnail_Cookie_sales.png)](https://raw.githubusercontent.com/navitha0620/Cookie_Sales_Dashboard-Data-Analytics/main/Cookie_sales.mp4)
